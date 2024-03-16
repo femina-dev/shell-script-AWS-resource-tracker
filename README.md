@@ -9,6 +9,7 @@ Shell scripting projects to automate tasks ( health check, status update, monito
 # Shell Script 
 
 --> Created a Script in bash to list the EC2 Instances, S3 Buckets & IAM Users.
+--> Installed a JSON utility jq to print JSON data in a more readable format. 
 
 # To monitor the resources in AWS using bash Script.
 --> Store the output locally and set up a crontab scheduler to run the job, monitor and track the AWS resources  
